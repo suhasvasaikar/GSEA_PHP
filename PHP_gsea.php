@@ -1,3 +1,10 @@
+<!- 
+##################################################
+#This file allows to incorporate GSEA in your webserver or application.
+#Author: Suhas Vasaikar
+##################################################
+->
+
 <?php
 
 $begin_time=microtime(true);
