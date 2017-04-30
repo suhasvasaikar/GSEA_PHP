@@ -8,7 +8,14 @@
 </br>Step-1: Download folder in your localhost or server.
 </br>Step-2: Run "PHP_gsea.php" in your server/browser.
 </br>Step-3: Change the data with your data (replace temporary .rnk and geneset.gmt files)
-</br>Step-4: Find your results in the same folder named as GSEA_PHP.
+</br>Step-4: Find your results in the same folder named as Output.
+
+</br>##For Expression matrix (or microarray) type of data use "PHP_ExpressionMatrix_gsea.php" script.
+</br>Example: For leukemia Phenotype(Leukemia.cls) and Expression matrix (Leukemia.gct).
+</br>Step-1: Download folder in your localhost or server.
+</br>Step-2: Run "PHP_ExpressionMatrix_gsea.php" in your server/browser.
+</br>Step-3: Change the data with your data (replace example data or geneset.gmt files)
+</br>Step-4: Find your results in the same folder named as Output.
 
 </br>Acknowledgement and Citation: Subramanian, Tamayo, et al. (2005, PNAS 102, 15545-15550) and Mootha, Lindgren, et al. (2003, Nat Genet 34, 267-273).
 </br>Licence : Please follow license agreement from http://software.broadinstitute.org/gsea/license_terms_list.jsp here.
